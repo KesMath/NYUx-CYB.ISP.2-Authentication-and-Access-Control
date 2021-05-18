@@ -1,0 +1,2 @@
+## :closed_lock_with_key:Authentication and Access Control:closed_lock_with_key:
+Collection of homework solutions and notes used to complete this course: [NYU AUTH & Access Control](https://www.edx.org/course/information-security-authentication-and-access-control)
